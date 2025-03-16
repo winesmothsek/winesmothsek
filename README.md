@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @winesmothsek
 - 🌱 I’m currently learning Nextjs
-- 📫 How to reach me email
 - 😄 Pronouns:he/him
 
 
